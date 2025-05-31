@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Nusaiba Fathima 👋
 
-<!--
-**27Nusaiba/27Nusaiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**An Aspiring Tech Enthusiast**  
+🔍 Upskilling with the most in-demand skills like Software Testing, Jira, GitHub, and Web Fundamentals  
+🌱 Curious, detail-oriented, and committed to continuous improvement
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Exploring
+- Tools like Jira, GitHub, and Excel
+- HTML/CSS/JavaScript projects
+- SQL and basic data handling
+- Product / Project Management 
+
+---
+
+## 🛠️ Tools & Technologies
+- HTML | CSS | Js | Jira | Excel  
+- SQL | HTML/CSS/JS (Basics)
+- Agile Basics
+
+---
+
+## 📂 Projects
+> Real projects added as I grow — check back often!
+
+ - The Online shopping management system – A DBMS Project](#)  
+  *An online shopping website for cutomers HTML, CSS, and JavaScript*
+ - Outbreak Management system – Online Lab Manager Application](#)  
+  *An online application that records all transactions made at the daily tests using front end and backend frameworks*
+-  Amazon Prime Clone Website ](#)  
+  *Basic Layout using HTML, CSS & JS for practice*
+
+   ## 🧠 Fun Fact
+I believe progress matters more than perfection — learning something small every day adds up!
+
