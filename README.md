@@ -22,7 +22,7 @@
 ---
 
 ## 📂 Projects
-> Real projects added as I grow — check back often!
+> Projects that i have wroked upon during my course of studies —
 
  - The Online shopping management system – A DBMS Project](#)  
   *An online shopping website for cutomers HTML, CSS, and JavaScript*
