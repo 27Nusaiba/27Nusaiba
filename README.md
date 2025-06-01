@@ -32,8 +32,8 @@
   *An online application that records all transactions made at the daily tests using front end and backend frameworks*
 -  Amazon Prime Clone Website (#)  
   *Basic Layout using HTML, CSS & JS for practice*
- - Language Translator Application
-  *Android Based Mobile Application that aims to convert any text to the desired language* / 
+ - Language Translator Application (#)
+  *Android Based Mobile Application that aims to convert any text to the desired language* 
 
    ## 🧠 Fun Fact
 I believe progress matters more than perfection — learning something small every day adds up!
